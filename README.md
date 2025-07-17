@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-dkmaker-mcp-function-app-tester-badge.png)](https://mseep.ai/app/mcp-mirror-dkmaker-mcp-function-app-tester)
+
 # MCP Function App Tester
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
